@@ -1,5 +1,5 @@
 {{{
-    "title"    : "a b",
+    "title"    : "中文",
     "tags"     : [ "NodeJS"],
     "category" : "杂乱",
     "date"     : "3-31-2014",
